@@ -17,7 +17,7 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ### Persiapan
 
-Sumber data: [Jaya Jaya Maju](https://lookerstudio.google.com/reporting/0cfbe2da-1f8b-41cd-b79e-67ec3e9bbd85)
+Sumber data: [Jaya Jaya Maju](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 ### Setup environment:
 
@@ -26,7 +26,7 @@ Sumber data: [Jaya Jaya Maju](https://lookerstudio.google.com/reporting/0cfbe2da
 pip install -r requirements.txt
 ```
 Prediction Model dengan Google Colab:
-  1. Buka ini [Google Colab](https://colab.research.google.com/drive/1fpRGoZwTSNRjOrAhBwoG8QN4g-_pP_e5?usp=sharing)
+  1. Buka ini [prediction.py](https://colab.research.google.com/drive/1fpRGoZwTSNRjOrAhBwoG8QN4g-_pP_e5?usp=sharing)
   2. Masukan model xgboost_model.pkl
   3. Jalankan file prediction.py
   4. Output akan Keluar
