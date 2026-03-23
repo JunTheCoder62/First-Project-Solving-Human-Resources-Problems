@@ -6,8 +6,11 @@ Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri 
 
 ### Permasalahan Bisnis
 
-* **Jumlahnya Karyawan yang Mengundurkan Diri (Attrition)**: Perushaan Jaya Jaya Maju memiliki banyak karyawan tetapi juga mengalami penurunan karyawan, sehingga mengganggu stabilitas perusahaan dan sumber daya manusia yang ada dalam perushaan
-* **Faktor - Faktor yang menyebabkan karyawan Mangundurkan Diri (Analisis)**: Faktor yang mengakibatkan banyaknya karyawan perusahaan memutuskan mengundurkan diri.
+1. Bagaimana profil demografis karyawan yang cenderung mengalami attrition (usia, gender, status pernikahan)?
+2. Apakah tingkat kepuasan kerja (job satisfaction) memiliki hubungan dengan keputusan karyawan untuk keluar?
+3. Departemen atau role pekerjaan mana yang memiliki tingkat attrition tertinggi?
+4. Apakah faktor kompensasi (pendapatan bulanan, upah per jam) berpengaruh terhadap attrition?
+5. Bagaimana hubungan antara lama bekerja (tenure) dengan kemungkinan attrition?
 
 ### Cakupan Proyek
 
@@ -43,7 +46,20 @@ Jika melihat pada distribusi peran pekerjaan, populasi terbesar terpusat pada po
 
 ## Conclusion
 
-Kesimpulan dari proyek ini ada faktor - faktor yang mempengaruhi terhadapat tingkat Attrition dalam perusahaan Jaya Jaya Maju, dapat di analisis pada data bahwa variabel seperti usia, kepuasan kerja, role pekerjaan, sampai tingkat pendidikan memiliki korelasi antara satu sama lain yang mempengaruhi tingkat Attrition. Dari sini perushaan Jaya Jaya Maju perlu memperhatikan variabel serta faktor - faktor yang mempengaruhi tingkat Attrition dan melakukan pencegahan agar Attrition tidak meningkat.
+Berdasarkan analisis data karyawan Jaya Jaya Maju, berikut jawaban atas pertanyaan bisnis yang diajukan:
+1. **Profil demografis karyawan dengan attrition tinggi:**
+   - Mayoritas berada di rentang usia 27-38 tahun (profesional muda)
+   - Dominasi laki-laki (59,8%) dalam populasi karyawan
+2. **Hubungan kepuasan kerja dengan attrition:**
+   - Rata-rata kepuasan kerja berada di angka 2.7/4.0 (kategori menengah-rendah)
+   - Skor ini mengindikasikan adanya ketidakpuasan yang perlu ditangani untuk mencegah attrition lebih lanjut
+3. **Departemen/role dengan attrition tertinggi:**
+   - Posisi Sales Executive, Research Scientist, dan Laboratory Technician memiliki volume karyawan terbesar sekaligus risiko turnover tinggi
+4. **Pengaruh kompensasi terhadap attrition:**
+   - Rata-rata upah per jam tercatat 88; scatter plot menunjukkan variasi antara pendapatan bulanan dan kepuasan lingkungan kerja yang perlu dievaluasi lebih lanjut
+5. **Hubungan tenure dengan attrition:**
+   - [Tambahkan temuan dari analisis datamu]
+**Catatan:** Terdapat 28% data status karyawan "Tidak Diketahui" yang memerlukan pembersihan untuk meningkatkan akurasi analisis.
 
 ### Rekomendasi Action Items
 
